@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Engineer @ Couchbase &nbsp;|&nbsp; Distributed Systems &amp; Cloud Infrastructure
+  Software Engineer @ Couchbase &nbsp;|&nbsp; Distributed Systems &amp; Cloud Infrastructure &nbsp;|&nbsp; Incoming Master's Applicant (NUS / NTU)
 </p>
 
 <p align="center">
@@ -28,6 +28,11 @@ building:
 goal: Master's in Computer Science, specializing in distributed systems and cloud computing
 ```
 
+### Currently building
+
+- **Distributed KV Store (Raft Consensus)** — leader election, log replication, and fault tolerance from scratch, with production-oriented additions: linearizable reads, request deduplication, observability, and chaos testing
+- **Distributed ML Inference Serving System** — multi-node inference serving with load balancing and fault tolerance, extending toward tensor parallelism
+
 ### Tech stack
 
 <p align="left">
@@ -44,8 +49,8 @@ goal: Master's in Computer Science, specializing in distributed systems and clou
 ### GitHub stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh98v&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsh98v&show_icons=true&theme=default&hide_border=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
