@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Distributed+Systems+%26+Cloud+Infrastructure;Building+a+Raft+Consensus+Engine+in+Go;Working+Toward+a+Master's+in+CS+(NUS+%2F+NTU)"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Distributed+Systems+%26+Cloud+Infrastructure;Passionate+about+Distributed+Databases+%26+ML+Systems;Always+Exploring"/>
 </p>
 
 <p align="center">
@@ -26,40 +26,8 @@
 role:      Software Engineer, Couchbase
 based_in:  Bangalore, India
 education: B.Tech, Computer Science and Engineering — VIT ('25)
-building:
-  - Distributed Key-Value Store with Raft Consensus   (Go)
-  - Distributed ML Inference Serving System           (Python, Go)
 interests: [distributed systems, cloud infrastructure, ML systems, always exploring]
 ```
-
-## Currently Building
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Distributed KV Store &nbsp;·&nbsp; Raft Consensus**
-`Go`
-
-Leader election, log replication, and fault tolerance implemented from scratch, with production-oriented additions:
-- Linearizable reads & request deduplication
-- Prometheus-style observability
-- Chaos-testing harness (node kills, network partitions)
-
-</td>
-<td width="50%" valign="top">
-
-**Distributed ML Inference Serving**
-`Python` `Go`
-
-Multi-node inference serving with:
-- Coordinator-based request routing & load balancing
-- Health checks & automatic failover
-- Tensor parallelism extension (in progress)
-
-</td>
-</tr>
-</table>
 
 ## Tech Stack
 
