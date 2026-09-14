@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Harsh%20Bardhan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Harsh%20Bardhan&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20@%20Couchbase&descAlignY=58&descSize=18"/>
 </p>
 
 <p align="center">
-  Software Engineer @ Couchbase &nbsp;|&nbsp; Distributed Systems &amp; Cloud Infrastructure &nbsp;|&nbsp; Incoming Master's Applicant (NUS / NTU)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2A5298&center=true&vCenter=true&width=600&lines=Distributed+Systems+%26+Cloud+Infrastructure;Building+a+Raft+Consensus+Engine+in+Go;Working+Toward+a+Master's+in+CS+(NUS+%2F+NTU)"/>
 </p>
 
 <p align="center">
@@ -11,48 +11,97 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:harsh98v@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2A5298?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-### About
-
-```yaml
-role: Software Engineer, Couchbase
-focus: SDK internals, Full-Text Search, distributed database reliability
-building:
-  - Distributed Key-Value Store with Raft Consensus (Go)
-  - Distributed ML Inference Serving System (Python, Go)
-goal: Master's in Computer Science, specializing in distributed systems and cloud computing
-```
-
-### Currently building
-
-- **Distributed KV Store (Raft Consensus)** — leader election, log replication, and fault tolerance from scratch, with production-oriented additions: linearizable reads, request deduplication, observability, and chaos testing
-- **Distributed ML Inference Serving System** — multi-node inference serving with load balancing and fault tolerance, extending toward tensor parallelism
-
-### Tech stack
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
-
-### GitHub stats
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=Harsh98v&show_icons=true&theme=default&hide_border=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&hide_border=true" height="165"/>
+  <img src="https://komarev.com/ghpvc/?username=Harsh98v&style=for-the-badge&color=2A5298&label=PROFILE+VIEWS"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e3c72,100:2a5298&height=3&section=header"/>
+</p>
+
+## About
+
+```yaml
+role:      Software Engineer, Couchbase
+focus:     SDK internals, Full-Text Search, distributed database reliability
+sme_for:   ["SDK", "Full-Text Search (FTS)"]
+building:
+  - Distributed Key-Value Store with Raft Consensus   (Go)
+  - Distributed ML Inference Serving System           (Python, Go)
+goal:      Master's in Computer Science — distributed systems & cloud computing
+```
+
+## Currently Building
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Distributed KV Store &nbsp;·&nbsp; Raft Consensus**
+`Go`
+
+Leader election, log replication, and fault tolerance implemented from scratch, with production-oriented additions:
+- Linearizable reads & request deduplication
+- Prometheus-style observability
+- Chaos-testing harness (node kills, network partitions)
+
+</td>
+<td width="50%" valign="top">
+
+**Distributed ML Inference Serving**
+`Python` `Go`
+
+Multi-node inference serving with:
+- Coordinator-based request routing & load balancing
+- Health checks & automatic failover
+- Tensor parallelism extension (in progress)
+
+</td>
+</tr>
+</table>
+
+## Tech Stack
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=go,python,java,cpp,nodejs" />
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres" />
+&nbsp;&nbsp;Couchbase (N1QL, FTS, distributed architecture)
+</td>
+</tr>
+<tr>
+<td><b>Cloud &amp; Infra</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes" />
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,githubactions,vscode" />
+</td>
+</tr>
+</table>
+
+## GitHub Stats
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=Harsh98v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=Harsh98v&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 </p>
