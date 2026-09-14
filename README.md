@@ -24,12 +24,12 @@
 
 ```yaml
 role:      Software Engineer, Couchbase
-focus:     SDK internals, Full-Text Search, distributed database reliability
-sme_for:   ["SDK", "Full-Text Search (FTS)"]
+based_in:  Bangalore, India
+education: B.Tech, Computer Science and Engineering — VIT ('25)
 building:
   - Distributed Key-Value Store with Raft Consensus   (Go)
   - Distributed ML Inference Serving System           (Python, Go)
-goal:      Master's in Computer Science — distributed systems & cloud computing
+interests: [distributed systems, cloud infrastructure, ML systems, always exploring]
 ```
 
 ## Currently Building
@@ -74,7 +74,7 @@ Multi-node inference serving with:
 <td><b>Databases</b></td>
 <td>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchbase/couchbase-original.svg" width="40" height="40" style="background-color:white;border-radius:6px;padding:4px;"/>
-&nbsp;&nbsp;Couchbase (N1QL, FTS, distributed architecture)
+<img src="https://skillicons.dev/icons?i=postgres" />
 </td>
 </tr>
 <tr>
@@ -96,10 +96,6 @@ Multi-node inference serving with:
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=Harsh98v&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Harsh98v&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
