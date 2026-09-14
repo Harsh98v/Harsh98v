@@ -73,7 +73,7 @@ Multi-node inference serving with:
 <tr>
 <td><b>Databases</b></td>
 <td>
-<img src="https://skillicons.dev/icons?i=postgres" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchbase/couchbase-original.svg" width="40" height="40" style="background-color:white;border-radius:6px;padding:4px;"/>
 &nbsp;&nbsp;Couchbase (N1QL, FTS, distributed architecture)
 </td>
 </tr>
