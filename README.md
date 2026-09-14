@@ -59,12 +59,6 @@ interests: [distributed systems, cloud infrastructure, ML systems, always explor
 </tr>
 </table>
 
-## Top Languages
-
-<p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Harsh98v&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
