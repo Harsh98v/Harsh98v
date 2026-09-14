@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software Engineer @ Couchbase &nbsp;|&nbsp; Distributed Systems &amp; Cloud Infrastructure &nbsp;|&nbsp; Incoming Master's Applicant (NUS / NTU)
+  Software Engineer @ Couchbase &nbsp;|&nbsp; Distributed Systems &amp; Cloud Infrastructure
 </p>
 
 <p align="center">
@@ -27,11 +27,6 @@ building:
   - Distributed ML Inference Serving System (Python, Go)
 goal: Master's in Computer Science, specializing in distributed systems and cloud computing
 ```
-
-### Currently building
-
-- **Distributed KV Store (Raft Consensus)** — leader election, log replication, and fault tolerance from scratch, with production-oriented additions: linearizable reads, request deduplication, observability, and chaos testing
-- **Distributed ML Inference Serving System** — multi-node inference serving with load balancing and fault tolerance, extending toward tensor parallelism
 
 ### Tech stack
 
